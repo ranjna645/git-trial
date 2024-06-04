@@ -1,4 +1,4 @@
 # git-trial
 first git repository
 <br>
-author - ranjna
+author - ranjna(apna college)
